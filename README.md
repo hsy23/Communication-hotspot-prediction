@@ -1,3 +1,4 @@
 # Communication-hotspot-prediction
-T-EEGCN Framework
-data and gcn & lstm model
+T-EEGCN Framework \n
+
+Data and gcn & lstm model
